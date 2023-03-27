@@ -82,6 +82,7 @@
     {
       "d": 1676091600000,
       "c": "CHAPTER 1. Death of the Author",
+      "theme": "dark",
       "b": "[img]https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/00012.png[/img]",
       "n": [ 13 ]
     },
@@ -214,6 +215,7 @@
     {
       "d": 1677646800000,
       "c": "[S] Day",
+      "theme": "dark",
       "b": "<video width=\"650\" height=\"450\" controls><source src=\"https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/00031.mp4\" type=\"video/mp4\"></video>",
       "n": [ 32 ]
     },
@@ -522,6 +524,7 @@
     {
       "d": 1679198400000,
       "c": "A panic and a freakout later...",
+      "theme": "dark",
       "b": "[img]https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/00076.png[/img]",
       "n": [ 77 ]
     },
