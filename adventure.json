@@ -482,7 +482,7 @@
       "d": 1678939200000,
       "c": "[S] Day",
       "theme": "dark",
-      "b": "<video width=\"650\" height=\"450\" controls><source src=\"https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/00069.mp4\" type=\"video/mp4\"></video>",
+      "b": "<video width=\"650\" height=\"450\"><source src=\"https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/00069.mp4\" type=\"video/mp4\"></video><div id='play'><img src='https://file.garden/X1htvgJ0DEp_tp-Z/playbutton.png'></div>",
       "n": [ 70 ]
     },
     {
@@ -748,7 +748,7 @@
     {
       "d": 1682370000000,
       "c": "[S] Zara: Remember",
-      "b": "<video id='video111' disablePictureInPicture src='https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/00111.mp4'></video> <div id='play' onclick='document.querySelector(\"#video111\").play(); this.remove()'><img src='https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/misc/playbutton.png'></div>",
+      "b": "<video id='video111' disablePictureInPicture src='https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/00111.mp4'></video> <div id='play'><img src='https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/misc/playbutton.png'></div>",
       "n": [ 112 ]
     }
   ]
