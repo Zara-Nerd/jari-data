@@ -13,7 +13,7 @@
       "d": 1675632115000,
       "c": "",
       "theme": "dark",
-      "b": "<div id=\"homewrap\">\n<div id=\"home\">\n<img id=\"logo\" src=\"https://file.garden/X1htvgJ0DEp_tp-Z/jari/Logo1.png\" alt=\"\">\n<a href=\"?p=1\"><div id=\"readbtn\"></div></a>\n<a href=\"?p=log\">Log</a>\n<a href=\"?p=credits\">Credits</a>\n</div>\n</div>",
+      "b": "<div id=\"homewrap\"><div id=\"home\"><img id=\"logo\" src=\"https://file.garden/X1htvgJ0DEp_tp-Z/jari/Logo1.png\" alt=\"\"><a href=\"?p=1\"><div id=\"readbtn\"></div></a><a href=\"?p=log\">Log</a><a href=\"?p=credits\">Credits</a></div></div>",
       "n": [ ]
     }
   },
