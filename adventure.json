@@ -15,6 +15,13 @@
       "theme": "dark",
       "b": "<div id=\"homewrap\"><div id=\"home\"><img id=\"logo\" src=\"https://file.garden/X1htvgJ0DEp_tp-Z/jari/Logo1.png\" alt=\"\"><a href=\"?p=1\"><div id=\"readbtn\"></div></a><a href=\"?p=log\">Log</a><a href=\"?p=credits\">Credits</a></div></div>",
       "n": [ ]
+    },
+    "test": {
+      "d": 1675632115000,
+      "c": "",
+      "theme": "zsunset",
+      "b": "<video id='video243' disablePictureInPicture src='https://file.garden/YB22oQJoG19Io7Up/wip%20and%20or%20temp%20lmao/tzdream/tz%20dream%20cut%201.mp4'></video> <div id='play'><img src='https://file.garden/YB22oQJoG19Io7Up/jari%3Adota/misc/playbutton.png'></div>",
+      "n": [ ]
     }
   },
   "p": [
